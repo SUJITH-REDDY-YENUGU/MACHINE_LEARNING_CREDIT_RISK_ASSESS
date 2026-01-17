@@ -1,3 +1,6 @@
+# NOTE
+Create a models folder in project root directory this is important and run the notebooks to get scaler , encoders and models please do run all notebooks.
+
 
 # 💳 Credit Risk Prediction System
 
