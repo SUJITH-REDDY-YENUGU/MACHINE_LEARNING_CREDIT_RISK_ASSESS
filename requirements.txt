@@ -1,0 +1,21 @@
+# Core data science stack
+pandas
+numpy
+scikit-learn
+xgboost
+imbalanced-learn
+matplotlib
+seaborn
+joblib
+
+# Backend (FastAPI)
+fastapi
+uvicorn
+
+# Frontend (Streamlit)
+streamlit
+requests
+
+# Optional utilities
+pydantic
+
